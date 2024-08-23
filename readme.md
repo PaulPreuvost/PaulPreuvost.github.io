@@ -28,4 +28,4 @@
 
 # Web Access
 
-    https://PaulPreuvost.github.io.
+    https://paulpreuvost.github.io/
