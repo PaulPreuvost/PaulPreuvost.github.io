@@ -5,20 +5,20 @@
 
 ## Project Structure
 
-  Project_Name
-  index.html
-  │
-  ├───style
-  |   └───index.css
-  │
-  └───script
-  │
-  └───src
-      ├───images
-      ├───files
-      |   └───pdf
-      |       └───PREUVOST_PAUL_CV_2024.pdf
-      └───font
+    Project_Name
+    index.html
+    │
+    ├───style
+    |   └───index.css
+    │
+    └───script
+    │
+    └───src
+        ├───images
+        ├───files
+        |   └───pdf
+        |       └───PREUVOST_PAUL_CV_2024.pdf
+        └───font
 
 ## Git FLow
 
