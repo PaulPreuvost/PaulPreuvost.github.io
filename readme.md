@@ -1,11 +1,11 @@
-# Test CI/CD
+# PaulPreuvost.github.io
 
   This repository hosts online my CV in PDF format, accessible online via GitHub Pages.
   First in pdf, then dynamically produce in react (work in progress) with download option.
 
 ## Project Structure
 
-    Project_Name
+    PaulPreuvost.github.io
     index.html
     │
     ├───style
